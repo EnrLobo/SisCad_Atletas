@@ -21,6 +21,9 @@
 `Funcionalidade 3`: Remoção de atletas<br>
 `Funcionalidade 4`: Alteração de dados de atletas<br>
 
+![ezgif com-gif-maker](https://github.com/EnrLobo/SisCad_Atletas/assets/111253773/1c6a2f0b-4f08-455f-929d-1051d2d368ec)
+
+
 ## 📁 Acesso ao projeto
 
 O projeto pode ser acessado a partir do clone do projeto a partir do link do GitHub. No GitHub está disponível também o dump do banco de dados.
